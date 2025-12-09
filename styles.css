@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 40px;
+  background: #fafafa;
+}
+
+.section {
+  margin-bottom: 30px;
+}
+
+.btn {
+  display: inline-block;
+  padding: 10px 18px;
+  background: #007bff;
+  color: white;
+  text-decoration: none;
+  border-radius: 6px;
+  font-size: 16px;
+}
+
+.btn:hover {
+  background: #0056c0;
+}
